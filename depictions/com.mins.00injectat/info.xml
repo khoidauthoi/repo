@@ -1,0 +1,20 @@
+<package>
+	<id>com.mins.00injectat</id>
+	<name>InjectAT</name>
+	<version>1.7.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>15.0</maxiOS>
+			<otherVersions>12.0</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>No</dependencies>
+	<descriptionlist>
+		<description>Inject AutoTouch License</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>No Change. Already stable</change>
+	</changelog>
+	<links></links>
+</package>
